@@ -1,0 +1,46 @@
+--------------------------------------------------------
+CO - 1
+--------------------
+
+1. OOP vs Structured Programming 
+   Features of Java
+   JVM, JRE, JDK
+   Compilation and Execution Process
+
+2. Data Types
+   Type Conversion and Casting
+
+3. Wrapper Classes
+   Autoboxing and Unboxing
+
+4. Operators
+   Expressions
+
+5. Method Declaration : 
+   Syntax, Parameters, Return types
+
+6. String
+   StringBuffer / StringBuilder
+   String Immutability
+   String Methods 
+   Comparisons (== vs equals())
+
+7. Legacy Date Classes (Date, Calendar) vs Modern Time API
+
+8. Control Structures :
+   if elseif else
+   switch case
+   loops -- for, while, do while
+   Arrays (1D and 2D)
+
+
+--------------------------------------------------------------
+
+CO - 2
+--------------------
+
+1. Classes and Objects
+   Constructors : default, parameterized
+   this keyword
+
+2. 
