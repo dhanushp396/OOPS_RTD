@@ -43,4 +43,21 @@ CO - 2
    Constructors : default, parameterized
    this keyword
 
-2. 
+2. Static Keyword
+   Static vs Instance Context
+   Final Keyword : Variables, Method, Class
+   Encapsulation
+   Packages
+   Access Modifiers
+
+3. Inheritance: Single, Multilevel, Multiple
+   Method Overriding
+   Super Keyword
+
+4. Aggregation vs Composition
+
+5. Abstract Classes vs Interfaces 
+   Polymorphism
+   Dynamic Binding
+
+
